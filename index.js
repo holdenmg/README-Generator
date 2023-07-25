@@ -8,7 +8,7 @@ const generateREADME = ({title, description, url, installation, usage, contribut
   
   `# ${title}
   
-  ![${license}](https://img.shields.io/${license}/l/:spec)
+  ![${license}](https://img.shields.io/badge/license-${license}-blue)
 
 
 
@@ -55,6 +55,7 @@ const generateREADME = ({title, description, url, installation, usage, contribut
   ## License
   
  ${license}
+ 
  
  ## Tests
 

@@ -1,6 +1,6 @@
 # holdens project
   
-  ![CRAN/METACRAN](https://img.shields.io/cran/l/:packageName)
+  ![1](https://img.shields.io/badge/license-1-blue)
 
   ##### Table of Contents  
   [Description](#description)

@@ -10,12 +10,19 @@ const generateREADME = ({title, description, url, installation, usage, contribut
   
   ##### Table of Contents  
   [Description](#description)  
+  
   [URL](#url)  
+
   [Installation](#installation)
+
   [Usage](#usage)
+
   [Contributing](#contributing)
+
   [License](#license)
+
   [Tests](#tests)
+
   [Questions](#quesetions)
   
   ## Description
@@ -23,35 +30,35 @@ const generateREADME = ({title, description, url, installation, usage, contribut
 
  
   ## URL
-  <a name="url"/>
+ 
   ${url}
   
   
   ## Installation
-  <a name="installation"/>
+ 
   ${installation}
   
   ## Usage
-  <a name="usage"/>
+ 
   ${usage}
 
   ## Contributing
-  <a name="contributing"/>
+ 
   ${contributing}
   
   
   
   ## License
-  <a name="license"/>
+  
  ${license}
  
  ## Tests
- <a name="tests"/>
+
  ${tests}
  
  ## Questions
- <a name="questions"/>
- Please email ${email} for any questions
+
+ Please email <${email}> for any questions
  
  Github link: https://github.com/${username}`
   

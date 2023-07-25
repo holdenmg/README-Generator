@@ -1,14 +1,22 @@
 # holdens project
   
   ##### Table of Contents  
-  [Description](#description)  
-  [URL](#url)  
+  [Description](#description)
+
+  [URL](#url)
+
   [Installation](#installation)
+
   [Usage](#usage)
+
   [Contributing](#contributing)
+
   [License](#license)
+
   [Tests](#tests)
+
   [Questions](#quesetions)
+
   
   ## Description
   this is my project
@@ -16,7 +24,7 @@
  
   ## URL
  
-  https://github.com/holdenmg/README-Generator
+  https://github.com/holdenmg/README-Generator/
   
   
   ## Installation

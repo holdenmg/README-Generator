@@ -55,7 +55,8 @@ const generateREADME = ({title, description, url, installation, usage, contribut
   ## License
   
  ${license}
- 
+
+ https://opensource.org/licenses/${license}
  
  ## Tests
 
@@ -108,7 +109,7 @@ const questions = [ {
     type: 'list',
     message: 'Choose license:',
     name: 'license',
-    choices: [1,2,3]
+    choices: ['MIT','ISC','IPL-1.0']
   },
   {
     type: 'input',

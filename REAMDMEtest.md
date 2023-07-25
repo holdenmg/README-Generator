@@ -15,34 +15,34 @@
 
  
   ## URL
-  <a name="url"/>
+ 
   https://github.com/holdenmg/README-Generator
   
   
   ## Installation
-  <a name="installation"/>
+ 
   none
   
   ## Usage
-  <a name="usage"/>
+  
   Use this to generate readmes
 
   ## Contributing
-  <a name="contributing"/>
+ 
   none
   
   
   
   ## License
-  <a name="license"/>
+ 
  1
  
  ## Tests
- <a name="tests"/>
+
  none
  
  ## Questions
- <a name="questions"/>
+ 
  Please email holdenmgarrison@gmail.com for any questions
  
  Github link: https://github.com/holdenmg

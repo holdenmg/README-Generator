@@ -1,9 +1,10 @@
-// TODO: Include packages needed for this application
+//Include packages needed for this application
 
 
 const inquirer = require('inquirer');
 const fs = require('fs');
   
+//Template for generated readme
 const generateREADME = ({title, description, url, installation, usage, contributing, license, tests, email, username, githubLink}) =>
   
   `# ${title}
@@ -66,10 +67,10 @@ const generateREADME = ({title, description, url, installation, usage, contribut
 
  Please email <${email}> for any questions
  
- Github link: https://github.com/${username}`
+ Github link: https://github.com/${username}`;
   
 
-// TODO: Create an array of questions for user input
+// Array of questions for user input
 const questions = [ {
     type: 'input',
     message: 'What is your project title?',
@@ -129,18 +130,18 @@ const questions = [ {
 
 ];
 
-// TODO: Create a function to write README file
+//Function to write readme content
 function writeToFile(fileName, data) {
   const readmeContent = generateREADME(data);
   fs.writeFile(fileName, readmeContent, (err) =>
   err ? console.log(err) : console.log("success")
   )};
 
-// TODO: Create a function to initialize app
+//function to initialize app
 function init() {
     inquirer.prompt(questions)
     .then((answers) => {
-    writeToFile('REAMDME.md', answers)
+    writeToFile('README2.md', answers)
     });
 
 }

@@ -15,7 +15,7 @@
 
   [Tests](#tests)
 
-  [Questions](#quesetions)
+  [Questions](#questions)
 
   
   ## Description

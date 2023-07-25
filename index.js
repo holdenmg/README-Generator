@@ -140,7 +140,7 @@ function writeToFile(fileName, data) {
 function init() {
     inquirer.prompt(questions)
     .then((answers) => {
-    writeToFile('REAMDMEtest.md', answers)
+    writeToFile('REAMDME.md', answers)
     });
 
 }

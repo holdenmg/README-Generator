@@ -27,7 +27,7 @@ const generateREADME = ({title, description, url, installation, usage, contribut
 
   [Tests](#tests)
 
-  [Questions](#quesetions)
+  [Questions](#questions)
   
   ## Description
   ${description}
@@ -109,7 +109,7 @@ const questions = [ {
     type: 'list',
     message: 'Choose license:',
     name: 'license',
-    choices: ['MIT','ISC','IPL-1.0']
+    choices: ['MIT','ISC','MirOS', 'Motosoto', 'Multics', 'NOKIA']
   },
   {
     type: 'input',

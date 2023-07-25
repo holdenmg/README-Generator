@@ -1,11 +1,13 @@
-# holdens project
+# Weather
   
-  ![1](https://img.shields.io/badge/license-1-blue)
+  ![MIT](https://img.shields.io/badge/license-MIT-blue)
+
+
 
   ##### Table of Contents  
-  [Description](#description)
+  [Description](#description)  
 
-  [URL](#url)
+  [URL](#url)  
 
   [Installation](#installation)
 
@@ -18,15 +20,14 @@
   [Tests](#tests)
 
   [Questions](#questions)
-
   
   ## Description
-  this is my project
+  its the weather
 
  
   ## URL
  
-  https://github.com/holdenmg/README-Generator/
+  https://holdenmg.github.io/weather-dashboard/
   
   
   ## Installation
@@ -34,8 +35,8 @@
   none
   
   ## Usage
-  
-  Use this to generate readmes
+ 
+  none
 
   ## Contributing
  
@@ -44,15 +45,17 @@
   
   
   ## License
- 
- 1
+  
+ MIT
+
+ https://opensource.org/licenses/MIT
  
  ## Tests
 
  none
  
  ## Questions
- 
- Please email holdenmgarrison@gmail.com for any questions
+
+ Please email <holdenmgarrison@gmail.com> for any questions
  
  Github link: https://github.com/holdenmg
